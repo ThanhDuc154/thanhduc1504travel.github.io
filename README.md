@@ -1,2 +1,2 @@
-# thanhduc1504travel.github.io
+# ThanhDuc154travel.github.io
  Travel
